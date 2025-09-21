@@ -81,4 +81,106 @@ Use confident, plain-English framing that centers proof and longevity.
 
 **Sell the Story Without the Spin**
 - Lead with narrative, then confirm with documents.  
-- Explain origin premi
+- Explain origin premiums and their **opinion** nature; show why your file is defensible even if labs disagree.  
+- Replace 4Cs-only talk with maker provenance, design era, and ethical pathway.
+
+**Protect the Deal**
+- Match stone to report in front of the client; read the inscription live.  
+- For parcels/melee jobs, assume salting; use screened/traceable batches.  
+- On appraisals, document brand signatures and report data to preserve indemnity.
+
+**After-Sale Dossier**
+- Deliver a provenance packet: copies of reports, inscription images, chain-of-custody summary, care notes, and appraisal with trademarks documented.
+
+---
+
+## Red Flags & Fast Tests
+- **Marketing-grade reports** heavy on romantic terms, light on data.  
+- **Treatment euphemisms** (cryptic codes) where plain language is required—especially for composites.  
+- **Paper/stone mismatch** on measurements or missing inscriptions.  
+- **Origin claims without an independent opinion**—or with multiple conflicting opinions and no rationale.  
+- **Untraceable melee** in premium pieces.  
+- **Appraisals that ignore hallmarks/branding**, violating indemnity.
+
+*(Triage, not verdicts. Escalate when dollars justify.)*
+
+---
+
+## FAQs
+
+**Q: Do I really need an origin opinion?**  
+If the market pays a premium for that origin, yes. Just remember it’s an opinion—use it with supporting documentation.
+
+**Q: What if two labs disagree on origin?**  
+It happens. Present both opinions, explain why they may differ, and price within a defensible range anchored to appearance and market comps.
+
+**Q: How should I handle composites and heavily filled gems?**  
+Label them explicitly as composites or clarity-assembled. Disclose durability limits and price in the correct lane.
+
+**Q: How much more should ethically sourced pieces cost?**  
+Enough to reflect real upstream costs (traceability, compliance, audits). Your margin should rise with the assurance you’re delivering.
+
+**Q: Are vintage cuts valued like modern rounds?**  
+No. They have their own demand and pricing. Use period-correct comparables.
+
+**Q: How do I prevent melee surprises?**  
+Source traceable batches, screen incoming parcels, and log results. Don’t rely on verbal assurances.
+
+---
+
+## Implementation Notes (SOP)
+
+**Intake**
+1) Photograph item (front/back/macro) with date stamp and scale.  
+2) Record hallmarks/serials; capture inscription photos.  
+3) Log report numbers; scan PDFs into the client file.
+
+**Verification**
+1) Match stone measurements and inscription to the report on camera or in-store.  
+2) For parcels/melee: screen, batch-label, and segregate; retain screening logs.  
+3) Seal items for outside testing with tamper-evident packaging and chain-of-custody forms.
+
+**Documentation & Disclosure**
+1) Use neutral, data-forward reports.  
+2) Write treatment in plain English; call composites “composites.”  
+3) Include origin opinions as opinions; attach rationale if multiple.
+
+**Valuation**
+1) Apply ethical-sourcing markups reflecting upstream costs.  
+2) Use period-correct comps for legacy cuts.  
+3) For ultra-rare goods, build a defensible range via dealer conversations and auction results; document your methodology.
+
+**Delivery**
+1) Provide a provenance packet (report copies, photos, chain notes, appraisal with trademarks).  
+2) Store a digital twin in your CRM.
+
+---
+
+## Mind Map (Mermaid)
+
+```mermaid
+mindmap
+  root((Provenance))
+    Narrative
+      History & maker
+      Responsible sourcing
+    Origin
+      Premiums & volatility
+      Conflicting opinions
+      Tracking & DNA tags
+    Paperwork
+      Neutral reports
+      Plain treatment disclosure
+      Traceability docs
+      Indemnity in appraisals
+    Verification
+      Match to report
+      Laser inscriptions
+      Melee screening
+    Valuation
+      Ethical markups
+      Period-correct comps
+      Subjective rarity lanes
+    Sales
+      Buyer scripts
+      Provenance packets
