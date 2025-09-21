@@ -1,0 +1,2 @@
+# Power-of-Provenance-Story-Origin-Paperwork-That-Move-Prices
+Provenance drives price. This playbook covers the narrative premium, origin’s volatility (and opinion conflicts), required documents, verification workflows (reports, inscriptions, parcels), valuation strategy for ethical supply chains and vintage cuts, buyer scripts, red flags, FAQs, and a step-by-step SOP to sell assurance—not discounts.
